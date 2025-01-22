@@ -1,0 +1,9 @@
+server=https://jellyfin.zgurion.com
+token=9a3ceb369d3340e2bfc1e0027367998a
+userid=9a732320f1874da1ad55c50a70f50969
+ssl_verifyhost=true
+client=jftui
+device=zach-arch
+deviceid=6535763
+version=0.7.2
+try_local_files=no

@@ -1,0 +1,39 @@
+ls
+pwd
+yay -S carapace
+yay -S carapace-bin
+nvim ~/.config/nushell/env.nu
+exit
+config nu
+$env.config.buffer_editor = "nvim"
+config nu
+exit
+hyprctl monitors
+zsh
+nvim ~/.config/nushell/config.nu
+exit
+bash
+zathura ~/Lance_of_Longinus.png 
+zathura ~"/Downloads/AE 345 Project 1.html" 
+ls -l
+sudo ls
+ls
+sudo su
+exit
+elvish 
+hyprctl monitors all
+exit
+$nu.config-path
+nvim /home/zgurion/.config/nushell/config.nu 
+exit
+fastfetch
+vim ~/.config/fastfetch/config.jsonc 
+fastfetch
+vim ~/.config/fastfetch/config.jsonc 
+fastfetch
+bat ~/.config/fastfetch/small.jsonc 
+fastfetch
+vim ~/.config/fastfetch/config.jsonc 
+fastfetch
+clear & fastfetch
+clear; fastfetch

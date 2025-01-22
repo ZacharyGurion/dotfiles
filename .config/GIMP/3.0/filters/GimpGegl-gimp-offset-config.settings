@@ -1,0 +1,18 @@
+# settings
+
+(GimpGegl-gimp-offset-config "2025-01-14 15:32:14"
+    (time 1736890334)
+    (color
+        (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+    (type wrap-around)
+    (x 600)
+    (y 0))
+(GimpGegl-gimp-offset-config "2025-01-14 15:31:32"
+    (time 1736890292)
+    (color
+        (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+    (type wrap-around)
+    (x 300)
+    (y 0))
+
+# end of settings
